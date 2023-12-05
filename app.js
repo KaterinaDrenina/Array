@@ -12,7 +12,7 @@ console.log ("Sorted array: ", array);
 
 // Видалити елементи з масиву з 2 по 4 (включно!).
 if (arrayLength > 4) {
-    array.splice (2 , 3);
+    array.splice (1 , 3 );
 } else {
     console.log ("Array doesnot have enough elements to remove")
 }
